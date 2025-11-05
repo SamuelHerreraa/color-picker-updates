@@ -1,3 +1,4 @@
+v15: Cambios de nombres actualizados en la INTERFAZ UI
 v1.4: Label Pro en GUI.
 v1.3: Título Pro v1.3 + fixes en UI.
 v1.2: Botón de copiar mejorado.
