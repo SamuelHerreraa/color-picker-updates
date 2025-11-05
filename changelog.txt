@@ -1,3 +1,4 @@
-v1.3: ChangeName.
-v1.2: Título Pro + mejor UI.
+v1.3: Título Pro v1.3 + fixes en UI.
+v1.2: Botón de copiar mejorado.
+v1.1: Sistema de updates inicial.
 v1.0: Login y contador básico.
