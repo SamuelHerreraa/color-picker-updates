@@ -1,3 +1,4 @@
+v1.7: CambioNombreTest 1.7
 v1.6: CambioNombreTest 1.6
 v1.5: Cambios de nombres actualizados en la INTERFAZ UI
 v1.4: Label Pro en GUI.
