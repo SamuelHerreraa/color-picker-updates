@@ -1,1 +1,2 @@
-v1.0: Botón copiar RGB/XY. v1.0: Login y contador básico.
+v1.2: Título Pro + mejor UI.
+v1.0: Login y contador básico.
